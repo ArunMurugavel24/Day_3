@@ -1,4 +1,4 @@
-# Day_3
+# Day 3
 Day 3 Project of my "[100 Days of Web Development](https://github.com/ArunMurugavel24/100_Days_of_Web_Coding)" Challenge.
 
 [Here](https://arunmurugavel24.github.io/Day_3/) is the live deployed website.
